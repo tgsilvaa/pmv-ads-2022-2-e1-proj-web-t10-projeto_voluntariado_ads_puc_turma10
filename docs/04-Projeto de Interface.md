@@ -5,14 +5,10 @@ Nossa prioridade para a criação da interface do sistema é a de acessibilidade
 
 ## User Flow
 
-![LucasFsR](img/userflow.jpg)
+O diagrama a seguir apresentado pela Figura X o fluxo de interação do usuário através das pages do site. Detalhamos as telas na seção Wireframe a seguir.
+Acesso para o [Wireframe interativo](https://www.canva.com/design/DAFOUFD79r8/jNAuGJg9WxrFG7GAqoaEMA/edit?utm_content=DAFOUFD79r8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
-
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
+![LucasFsR](https://user-images.githubusercontent.com/99758232/194673178-1875dbbd-bae8-47e8-9877-08c3c7275ba9.jpeg)
 
 
 ## Wireframes
