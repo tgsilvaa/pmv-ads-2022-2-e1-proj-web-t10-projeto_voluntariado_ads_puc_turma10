@@ -4,7 +4,13 @@ As especificações do projeto se definem em localizar a problemática que possu
 
 ## Personas
 
-As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
+As personas levantadas durante o processo de entendimento do problema são apresentadas a seguir:
+
+|Nome|Idade|Ocupação|Aplicativos|Motivações|Frustrações|
+|--------------------|--|-------------------------|-------------------------|-------------------------|-------------------------|
+|Luciana Santos|43|Médica. É clínico geral no hospital Mater Dei e Unimed|Instagram, Facebook, LinkedIn, Gmail|Vontade de evoluir e aprender com os erros|Nunca fez voluntariado e possui dificuldade em utilizar novas tecnologias|
+|Pedro Guimarães|27|Analista de Suporte de TI. Trabalha na AMAZON, filial do Rio de Janeiro|Instagram, Facebook, LinkedIn, Gmail|Vontade de evoluir e aprender com os erros|Nunca fez voluntariado e possui dificuldade em utilizar novas tecnologias|
+|Luciana Santos|43|Médica. É clínico geral no hospital Mater Dei e Unimed|Instagram, Facebook, LinkedIn, Gmail|Vontade de evoluir e aprender com os erros|Nunca fez voluntariado e possui dificuldade em utilizar novas tecnologias|
 
 ![LucasFsR](https://user-images.githubusercontent.com/99758232/194666192-585a0b45-c8c7-4f3f-bb55-0c4d837d60ed.jpeg)
 
