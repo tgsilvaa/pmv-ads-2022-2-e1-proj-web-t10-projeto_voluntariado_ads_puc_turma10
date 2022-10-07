@@ -8,15 +8,9 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 |Nome|Idade|Ocupação|Aplicativos|Motivações|Frustrações|
 |--------------------|--|-------------------------|-------------------------|-------------------------|-------------------------|
-|Luciana Santos|43|Médica. É clínico geral no hospital Mater Dei e Unimed|Instagram, Facebook, LinkedIn, Gmail|Vontade de evoluir e aprender com os erros|Nunca fez voluntariado e possui dificuldade em utilizar novas tecnologias|
-|Pedro Guimarães|27|Analista de Suporte de TI. Trabalha na AMAZON, filial do Rio de Janeiro|Instagram, Facebook, LinkedIn, Gmail|Vontade de evoluir e aprender com os erros|Nunca fez voluntariado e possui dificuldade em utilizar novas tecnologias|
-|Luciana Santos|43|Médica. É clínico geral no hospital Mater Dei e Unimed|Instagram, Facebook, LinkedIn, Gmail|Vontade de evoluir e aprender com os erros|Nunca fez voluntariado e possui dificuldade em utilizar novas tecnologias|
-
-![LucasFsR](https://user-images.githubusercontent.com/99758232/194666192-585a0b45-c8c7-4f3f-bb55-0c4d837d60ed.jpeg)
-
-![LucasFsR](https://user-images.githubusercontent.com/99758232/194666843-b2a1f55d-c352-4e2c-b589-3d1e3a554411.jpeg)
-
-![LucasFsR](https://user-images.githubusercontent.com/99758232/194666863-1af5a0a7-a8ed-4ffd-b0ed-be92358c2765.jpeg)
+|Luciana Santos|43|Médica, é clínico geral no hospital Mater Dei e Unimed|Instagram, Facebook, LinkedIn, Gmail|Vontade de evoluir e aprender com os erros|Nunca fez voluntariado e possui dificuldade em utilizar novas tecnologias|
+|Pedro Guimarães|27|Analista de Suporte de TI, trabalha na Amazon|Instagram, Facebook, LinkedIn, Twitter|Ajudar a comunidade e aprender com novos coletivos|Pouco contato com a diversidade cultural e falta de experiência|
+|Luciana Santos|34|Veterinária na PetLove|Instagram, Facebook, Deezer, LinkedIn|Contribuir para o bem estar de animais de rua e ver seu trabalho salvando vidas|Ver a maldade humana aplicada aos animais abandonados e não conseguir contribuir o suficiente|
 
 
 ## Histórias de Usuários
