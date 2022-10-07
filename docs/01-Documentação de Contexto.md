@@ -1,46 +1,35 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+  Atualmente o país possui um total de 57 milhões de voluntários ativos, de acordo com a Pesquisa Voluntariado no Brasil 2021, divulgada pelo IDIS. Nesse sentido, é notável a grande participação da população em causas sociais. Porém, apesar de números positivos, o país ainda enfrenta dificuldade na adesão de voluntários para trabalho comunitário.
+  Isto pois o impasse se baseia na difícil integração de novos voluntários em centros de voluntariado / ONGs. Além do acesso precário dos serviços sociais prestados por centros públicos e privados. De acordo com a pesquisa do Datafolha sobre prestação de serviços comunitários, realizada em 2021, a falta de oportunidade, de apoio, convite ou a pouca informação são os principais fatores dessa escassez, o que afeta gravemente instituições que necessitam de serviços e doações comunitárias.
+  Por conta disso, torna-se fundamental a existência de ferramentas que visam aumentar a divulgação destes serviços para a população. Atingindo  tanto aqueles sem formação quanto profissionais que possuem disponibilidade para ajudar e praticar sua solidariedade.  A criação de um site que permita a elaboração de perfis dentro de ONGs, ofertando vagas por perfis, recomendando ações próximas que possam interessar empresas e pessoas promoverá interação e maior acessibilidade a projetos e serviços comunitários.  Ferramentas como esta podem atingir tanto homens quanto mulheres entre 18 à 50 anos, que queiram se desenvolver como prestador de serviços comunitários para beneficiar pessoas e causas.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Conforme apresentado, o problema a ser resolvido pelo projeto é a difícil integração entre novos voluntários e centros de voluntariado / ONGs. Junto a isso, visamos amenizar o problema do difícil acesso aos serviços sociais prestados por centros públicos e privados (como aulas em centros esportivos e oficinas culturais).
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Temos como objetivo criar um site que permita a criação de perfis para centros de voluntariado/ONGs e voluntários, dessa forma, facilitando o preenchimento das vagas ofertadas por perfis que tenham compatibilidade.
+Em conjunto, o site terá um portal que apresente serviços e oficinas gratuitas oferecidas por centros na região. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Objetivos específicos:
+* Facilitar o encontro entre voluntários e voluntariados.
+* Amenizar o difícil acesso aos serviços gratuitos, reunindo-os em um portal e apresentando-os ao público.
+* Ter um site acessível para qualquer tipo de usuário.
+
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A implementação do projeto de construção de um sistema de Internet que ajuda a promover encontros de voluntários e aumenta a viabilização das instituições para pessoas interessadas em ajudar é importante visto que a falta de voluntários limita a evolução da consciência social. A escassez na divulgação das possibilidades de voluntariado também contribui para que poucas pessoas tenham conhecimento sobre as atividades realizadas em ONGs. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+É importante frisar a importância da tecnologia na aproximação de voluntários e organizações sociais
+Desta forma, será realizada a construção de um sistema gratuito de internet, que de certa forma servirá como uma "ponte" entre voluntários e ONGs que precisam de pessoas que buscam o voluntariado, possibilitando também o cadastro na plataforma garantindo a eficácia do projeto proposto.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Considerando que o trabalho voluntário tem tomado uma nova dimensão, a responsabilidade social é agora parte essencial das empresas e pessoas. O foco desse site é promover a interação entre ONGs e pessoas físicas.
+Desta forma estabeleceu-se o público alvo homens e mulheres entre 18 e 50 anos que consideram importante desenvolver a consciência social de maneira a ajudar quem precisa.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
