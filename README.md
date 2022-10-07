@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# Projeto Voluntariado
 
-`CURSO`
+`Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`1° Semestre`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Joe Monteiro
+* Kaliane Silva Diniz
+* Lucas Faislon Rodrigues
+* Thiago Gomes
+* Victor Igne Franco Rocha
 
 ## Orientador
 
-* Nome completo do professor 1
+* Josemar Alves Caetano
 
 ## Instruções de utilização
 
