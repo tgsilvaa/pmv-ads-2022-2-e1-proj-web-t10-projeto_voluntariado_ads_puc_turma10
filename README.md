@@ -10,11 +10,11 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Joe Monteiro
+* Victor Igne Franco Rocha
 * Kaliane Silva Diniz
 * Lucas Faislon Rodrigues
 * Thiago Gomes
-* Victor Igne Franco Rocha
+* Joe Monteiro
 
 ## Orientador
 
