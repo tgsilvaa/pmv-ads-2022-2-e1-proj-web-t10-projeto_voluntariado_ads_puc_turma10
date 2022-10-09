@@ -40,8 +40,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-003| O sistema deve exigir no cadastro de pessoa jurídica (ONG) informações como: endereço, e-mail, telefone, CNPJ e breve biografia da instituição para facilitar a validação da ONG e inclusão da mesma no mapa interativo do site por parte dos administradores da plataforma.   | ALTA |
 |RF-004| O sistema deve disponibilizar um mapa dentro da plataforma que contenha todas as ONGs disponíveis nas redondezas para que o voluntário possa escolher o que lhe for mais conveniente.   | MÉDIA |
 |RF-005| O sistema deve disponibilizar uma ferramenta de buscas por frases e palavras-chave, a ferramenta deve ter filtros de busca para que o usuário possa encontrar o que desejar dentro da plataforma com maior facilidade.| MÉDIA |
-|RF-006| O sistema deve conter um fórum de perguntas e respostas, semelhante ao famoso “Yahoo Respostas”, para a interação entre todos os usuários da plataforma.| BAIXA |
-
 
 
 ### Requisitos não Funcionais
@@ -51,8 +49,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| O sistema deverá ser uma aplicação web (website). | ALTA | 
 |RNF-002| O sistema deverá utilizar um framework front-end para a responsividade do site (adequação à todas plataformas).| MÉDIA | 
 |RNF-003| O sistema deverá utilizar como fonte o “font-family: arial, helvetica neue, helvetica, sans-serif” para compatibilidade máxima com a maioria dos navegadores disponíveis na web. | MÉDIA | 
-|RNF-004| O sistema deve processar requisições do usuário em no máximo 5 segundos. | BAIXA | 
-|RNF-004| O sistema deverá disponibilizar a opção de tema claro ou escuro para que o usuário possa selecionar o que preferir. | BAIXA | 
+|RNF-004| O sistema deve processar requisições do usuário em no máximo 5 segundos. | BAIXA |  
 
 
 
