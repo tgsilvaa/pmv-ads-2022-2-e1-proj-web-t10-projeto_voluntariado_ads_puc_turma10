@@ -6,23 +6,25 @@ Neste segmento, apresentaremos os detalhes técnicos da solução criada pela eq
 
 Segue abaixo os componentes que fazem parte da solução.
 
-[LucasFsR]
+![LucasFsR](https://user-images.githubusercontent.com/99758232/195960747-452b1b7e-ad0f-4435-8b98-06ceae510482.jpeg)
 
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+A solução implementada conta com os seguintes módulos:
+*	Navegador - Interface básica do sistema 
+*	Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
+*	Local Storage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
+*	Perfil voluntários – Dados de todos voluntários cadastrados 
+*	Perfil das Instituições – Dados das Intuições parceiras 
+*	Vagas Ofertadas – Descrição das vagas disponíveis
+*	Ouvidoria – Registro de opiniões dos usuários sobre a usabilidade do site, dúvidas, etc.
+*	API Google maps  – Com objetivo de aproximar e informar as localizações dos voluntários e das instituições.
 
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+A definir pela equipe, com três principais opções:
 
-> **Links Úteis**:
->
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
+*	AwardSpace
+*	Heroku
