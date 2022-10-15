@@ -8,7 +8,7 @@ Nossa prioridade para a criação da interface do sistema é a de acessibilidade
 O diagrama a seguir apresentado pela Figura X o fluxo de interação do usuário através das pages do site. Detalhamos as telas na seção Wireframe a seguir.
 Acesso ao [Wireframe interativo](https://www.canva.com/design/DAFOUFD79r8/jNAuGJg9WxrFG7GAqoaEMA/edit?utm_content=DAFOUFD79r8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
-![LucasFsR](https://user-images.githubusercontent.com/99758232/194673178-1875dbbd-bae8-47e8-9877-08c3c7275ba9.jpeg)
+![LucasFsR](https://user-images.githubusercontent.com/99758232/195962352-261520a6-4e28-4d3d-82d1-729bbbd7b084.jpeg)
 
 
 ## Wireframes
@@ -17,7 +17,7 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 * Cabeçalho - local onde são dispostos elementos fixos de identidade    (logo), redes sociais, notificações e perfil do usuário.
 * Conteúdo - apresenta o conteúdo da tela em questão.
 
-![LucasFsR](https://user-images.githubusercontent.com/99758232/194674059-a1dde46f-fdec-4a50-8492-bb5e84701f79.jpeg)
+![LucasFsR](https://user-images.githubusercontent.com/99758232/195962353-d545f5a0-826b-4942-8874-a48cb554c273.jpeg)
 
 *Tela - Home-Page*
 
@@ -29,20 +29,20 @@ Logo abaixo, temos 3 blocos de cadastro para 3 elementos distintos. São eles:
 Outro componente da tela de home-page é o Quem somos, que tem como objetivo apresentar, de forma breve, o intuito do projeto . Ao lado, colocaremos imagens das ações sendo realizadas.
 Por último, temos um bloco de Tire suas dúvidas, onde disponibilizaremos um campo de mensagem para os usuários e/ou interessados entrarem em contato direto com a equipe desenvolvedora do projeto, seja por dúvidas, elogios, patrocínio etc.
 
-![LucasFsR](https://user-images.githubusercontent.com/99758232/194674054-149f2c6b-610e-4ead-a86f-1d0789eb9b33.jpeg)
+![LucasFsR]()
 
 *Tela - Notificação*
 
 Tem a finalidade de notificar os usuários quando uma solicitação for respondida, novas vagas adicionadas que são de acordo com o perfil daquele usuário etc.
 
-![LucasFsR](https://user-images.githubusercontent.com/99758232/194674056-2d468b1e-c23f-4e57-bbbc-c237784d5fe0.jpeg)
+![LucasFsR](https://user-images.githubusercontent.com/99758232/195962354-00337bcd-8ba3-4c04-964f-bb5ff8fa2305.jpeg)
 
 
 *Tela - Login*
 
 É a tela de cadastro do usuário, onde ele poderá fazer login utilizando a conta do Facebook, google ou criar uma conta.
 
-![LucasFsR](https://user-images.githubusercontent.com/99758232/194674057-9c76c4f4-1592-4098-92d9-19a43640ac3e.jpeg)
+![LucasFsR](https://user-images.githubusercontent.com/99758232/195962355-156fc536-6750-47c7-990a-4e4d9a43b321.jpeg)
 
 *Tela - Atividade*
 
@@ -52,7 +52,7 @@ Como destaque, teremos 5 blocos com áreas gerais e, logo abaixo, um botão de f
 * Filtro detalhado: Saúde feminina
 Utilizaremos um hiperlink que irá direcionar para um site externo (site parceiro), que está disponibilizando aquela vaga de interesse do usuário.
 
-![LucasFsR](https://user-images.githubusercontent.com/99758232/194674063-8429350d-4908-425c-a396-8a15cff4aeb9.jpeg)
+![LucasFsR](https://user-images.githubusercontent.com/99758232/195962356-7f94368d-29e7-497d-93fa-7140f5789fa2.jpeg)
 
 *Tela - Filtro do voluntariado*
 
@@ -62,19 +62,19 @@ Utilizaremos um hiperlink que irá direcionar para um site externo (site parceir
 * Vagas recém adicionadas;
 * Todas as vagas de todas as áreas e habilidades.
 
-![LucasFsR](https://user-images.githubusercontent.com/99758232/194674060-564f5af2-0d05-4d6d-8b83-f51094e2276c.jpeg)
+![LucasFsR](https://user-images.githubusercontent.com/99758232/195962357-79ddac58-5761-4d08-99c9-8894ae59e519.jpeg)
 
 *Tela - Cadastro da ONG*
 
 Será o local de cadastro da ONG que irá disponibilizar o espaço para captar voluntários.
 
-![LucasFsR](https://user-images.githubusercontent.com/99758232/194674061-1aacd4ed-632c-4cc8-b23c-80f27be530b7.jpeg)
+![LucasFsR](https://user-images.githubusercontent.com/99758232/195962358-93ca530d-280e-4042-a9d4-7b491217d11e.jpeg)
 
 *Tela - Cadastro realizado com sucesso*
 
 É a tela que conterá informações como: nome do local e logo/imagem, breve texto sobre o perfil do voluntário e os requisitos  para aquela vaga, e um mapa com a localização da vaga para facilitar a rota para o usuário.
 
-![LucasFsR](https://user-images.githubusercontent.com/99758232/194674062-59570c00-c7d5-4fe2-bca3-004a3ac17115.jpeg)
+![LucasFsR](https://user-images.githubusercontent.com/99758232/195962442-fa9f988e-e7c0-49f9-8dd9-739405682056.jpeg)
 
 
 
