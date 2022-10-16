@@ -8,7 +8,7 @@ Nossa prioridade para a criação da interface do sistema é a de acessibilidade
 O diagrama a seguir apresentado pela Figura X o fluxo de interação do usuário através das pages do site. Detalhamos as telas na seção Wireframe a seguir.
 Acesso ao [Wireframe interativo](https://www.canva.com/design/DAFOUFD79r8/jNAuGJg9WxrFG7GAqoaEMA/edit?utm_content=DAFOUFD79r8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
-![LucasFsR](https://user-images.githubusercontent.com/99758232/195962352-261520a6-4e28-4d3d-82d1-729bbbd7b084.jpeg)
+![LucasFsR](https://user-images.githubusercontent.com/99758232/196014912-e5674b1c-2a9c-4d93-9842-7aa33cdfc20f.png)
 
 
 ## Wireframes
