@@ -6,7 +6,7 @@
 
 `1° Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Temos como objetivo criar um site que permita a criação de perfis para centros de voluntariado/ONGs e voluntários, dessa forma, facilitando o preenchimento das vagas ofertadas por perfis que tenham compatibilidade. Em conjunto, o site terá um portal que apresente serviços e oficinas gratuitas oferecidas por centros na região.
 
 ## Integrantes
 
