@@ -76,7 +76,7 @@ Utilizaremos um hiperlink que irá direcionar para um site externo (site parceir
 
 Será o local de cadastro da ONG que irá disponibilizar o espaço para captar voluntários. É a tela que conterá informações como: nome do local e logo/imagem, breve texto sobre o perfil do voluntariado, os requisitos  para aquela vaga e um mapa com a localização da vaga para facilitar a rota para o usuário. 
 
-![Intituicao]((https://marvelapp.com/prototype/iib9edh/screen/89031801)
+![Intituicao](https://marvelapp.com/prototype/iib9edh/screen/89031801)
 
 *Tela - Cadastro realizado com sucesso*
 
