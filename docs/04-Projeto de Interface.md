@@ -38,7 +38,6 @@ Logo abaixo, temos 3 blocos de cadastro para 3 elementos distintos. São eles:
 Outro componente da tela de home-page é o Quem somos, que tem como objetivo apresentar, de forma breve, o intuito do projeto . Ao lado, colocaremos imagens das ações sendo realizadas.
 Por último, temos um bloco de Tire suas dúvidas, onde disponibilizaremos um campo de mensagem para os usuários e/ou interessados entrarem em contato direto com a equipe desenvolvedora do projeto, seja por dúvidas, elogios, patrocínio etc.
 
-![LucasFsR]()
 
 *Tela - Notificação*
 
@@ -51,7 +50,7 @@ Tem a finalidade de notificar os usuários quando uma solicitação for respondi
 
 É a tela de cadastro do usuário, onde ele poderá fazer login utilizando a conta do Facebook, google ou criar uma conta.
 
-![LucasFsR](https://user-images.githubusercontent.com/99758232/195962355-156fc536-6750-47c7-990a-4e4d9a43b321.jpeg)
+![LucasFsR](https://user-images.githubusercontent.com/71721477/196015085-ac12c5c2-afea-450e-b0a7-f5ff656c29b7.png)
 
 *Tela - Atividade*
 
