@@ -70,19 +70,18 @@ Utilizaremos um hiperlink que irá direcionar para um site externo (site parceir
 * Vagas recém adicionadas;
 * Todas as vagas de todas as áreas e habilidades.
 
-![LucasFsR](https://marvelapp.com/prototype/iib9edh/screen/89031870)
+![voluntario](https://marvelapp.com/prototype/iib9edh/screen/89031870)
 
 *Tela - Cadastro da ONG*
 
 Será o local de cadastro da ONG que irá disponibilizar o espaço para captar voluntários. É a tela que conterá informações como: nome do local e logo/imagem, breve texto sobre o perfil do voluntariado, os requisitos  para aquela vaga e um mapa com a localização da vaga para facilitar a rota para o usuário. 
 
-![LucasFsR](https://user-images.githubusercontent.com/99758232/195962358-93ca530d-280e-4042-a9d4-7b491217d11e.jpeg)
+![Intituicao]((https://marvelapp.com/prototype/iib9edh/screen/89031801)
 
 *Tela - Cadastro realizado com sucesso*
 
 Após clicar em Finalizar, caso o usuário não tenha se cadastrado, terá que efetuar o Login. Caso ja esteja logado, aparecerá um Pop-Up sinalizando que o perfil da vaga foi criado. 
 
-![LucasFsR](https://marvelapp.com/prototype/iib9edh/screen/89031801)
 
 
 
