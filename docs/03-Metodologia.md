@@ -1,7 +1,12 @@
 
 # Metodologia
 
-A  metodologia utilizada servirá de apoio, gerenciamento e organização do projeto a cada etapa do desenvolvimento. Para isso, foi-se necessário fazer a seleção de artefatos. Relacionando o ambiente para cada atividade realizada em uma plataforma específica. Conforme mostrado abaixo:
+A  metodologia utilizada tem ênfase no SCRUM, adotando uma abordagem empírica. Compreendendo que o problema pode não ser definido no início e que existe a possibilidade  dos requisitos mudarem com o passar do tempo.  A cada iteração se entende melhor os problemas para que assim seja possível  avaliar e observar como prosseguir.
+Além disso, servirá de apoio, gerenciamento e organização do projeto a cada etapa do desenvolvimento. 
+
+## Relação de ambiente de trabalho
+Para isso, foi-se necessário fazer a seleção de artefatos. Relacionando o ambiente para cada atividade realizada. Conforme mostrado abaixo:
+
 
 |Ambiente|Plataforma|Link de Acesso|
 |--------------------|-------------------------|-------------------------|
@@ -21,7 +26,6 @@ A princípio, o método ágil como o SCRUM vai ser determinante para o desenvolv
 * Versões incrementais com iterações curtas;
 * Equipes auto-organizadas com liderança diluída;
 * Trabalho organizado a partir do backlog do produto (artefato);
-* Backlog: Lista atualizada e priorizada do que ainda precisa ser feito (requisitos).
 
 ### Divisão de Papéis
 
@@ -56,13 +60,14 @@ Serve para definir se o artefato está pronto. Se tudo o que foi solicitado no b
 
 1. Objetivos: inspecionar o que a equipe produziu. coletar impressões para adaptar o plano da sprint seguinte.
 
-2. Foco: aprimoramento do produto.
 
 * RETROSPECTIVA DA SPRINT:
  
-Serve para reavaliar o processo, o que precisa melhorar, o que está errado, o processo está bom, se tem mais opções de formas mais eficientes etc. Para garantir melhorias do software.
+Serve para reavaliar o processo. O que precisa melhorar, o que está errado, se o processo está aceitável, se existem opções mais eficientes etc. Assim, garantindo melhorias do software com o aprimoramento do processo.
 
-1. Foco: aprimoramento do processo, interação entre membros, práticas e ferramentas utilizadas, o que funcionou e o que precisa ser melhorado,problemas e medidas para a correção.
+1. Interação entre membros, práticas e ferramentas utilizadas;
+2. O que funcionou e o que precisa ser melhorado;
+3. Problemas e medidas para a correção.
 
 
 ### Ferramentas
@@ -74,5 +79,5 @@ Com a finalidade de organizar as tarefas e aprimorar o andamento do projeto, o s
 Em andamento : Referente a atividade que estamos trabalhando atualmente, podendo estar perto de ser finalizada ou que levará mais tempo para ser concluída.
 * CONCLUÍDO : Aqui sinalizaremos todas as tarefas finalizadas, que foram verificadas além de passar por um feedback geral do grupo de desenvolvedores. Pronto para ser aplicado fixamente no projeto. 
 
-
+## VISÃO GERAL DO PROCESSO VIA TRELLO: 
 ![strello](https://user-images.githubusercontent.com/114964435/196014957-ce033532-ed80-4c4c-9a16-f03d80c0f143.png)
