@@ -25,6 +25,5 @@ A solução implementada conta com os seguintes módulos:
 
 
 ## Hospedagem
-A definir pela equipe, com três principais opções:
-
+A hospedagem utilizada, será:
 *	Heroku
