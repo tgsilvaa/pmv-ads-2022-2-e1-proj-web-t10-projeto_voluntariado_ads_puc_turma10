@@ -13,18 +13,18 @@ Segue abaixo os componentes que fazem parte da solução.
 
 A solução implementada conta com os seguintes módulos:
 
-* Navegador - Interface básica do sistema
+* Navegador - Interface básica do sistema.
 * Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
 * Local Storage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles:
-* Perfil voluntários – Dados de todos voluntários cadastrados
-* Perfil das Instituições – Dados das Instituições parceiras
-* Vagas Ofertadas – Descrição das vagas disponíveis
-* Ouvidoria – Registro de opiniões dos usuários sobre a usabilidade do site, dúvidas, etc.
+  1. Perfil voluntários – Dados de todos voluntários cadastrados.
+  2. Perfil das Instituições – Dados das Instituições parceiras.
+  3. Vagas Ofertadas – Descrição das vagas disponíveis.
+  4. Ouvidoria – Registro de opiniões dos usuários sobre a usabilidade do site, dúvidas, etc.
 * API Google Maps  – Com objetivo de aproximar e informar as localizações dos voluntários e das instituições.
-* Hospedagem – Heroku  
+* Hospedagem – Heroku.  
 
 
 ## Hospedagem
 A hospedagem utilizada será:
 
-*	Heroku
+*	Heroku.
