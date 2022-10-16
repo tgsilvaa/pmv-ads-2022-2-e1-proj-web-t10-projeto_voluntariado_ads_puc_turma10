@@ -7,14 +7,23 @@ Nossa prioridade para a criação da interface do sistema é a de acessibilidade
 
 O diagrama a seguir através da Figura 5, apresenta o fluxo de interação do usuário através das páginas do site. Detalhamos as telas na seção Wireframe a seguir.
 Acesso para o Wireframe interativo: [Wireframe interativo](https://marvelapp.com/prototype/iib9edh/screen/89031240).
+
  O fluxo de telas está direcionado por setas:
+ 
 Seta 1: Ao clicar no ícone de Notificação, abrirá uma tela sobreposta com as notificações existentes para o usuário.
+
 Seta 2: Ao clicar no ícone de Perfil, abrirá uma tela sobreposta com a opção de fazer cadastro ou logar, após preenchido corretamente, o usuário estará logado.
+
 Seta 3: Ao clicar em Atividades, abrirá a página Atividades do site.
+
 Seta 4: Ao clicar em alguma atividade na página Atividades, o usuário será encaminhado para o site externo referente a atividade escolhida pelo usuário.
+
 Seta 5: Ao clicar em Ong Voluntária, o usuário será direcionado para a página Ong Voluntária, permitindo que o usuário crie o perfil da sua ONG / Voluntariado.
+
 Seta 6: Ao clicar em Finalizar, será pedido ao usuário que se cadastre, após o login, o usuário será direcionado a página inicial. 
+
 Seta 7: Após clicar em Seja Voluntário, o usuário será direcionado para a página de Seja Voluntário, dessa forma, tendo acesso aos perfis das ONG´s e Voluntariados.
+
 
 
 ![VictorFluxoUsuario](https://user-images.githubusercontent.com/71721477/196014933-2746fff0-e419-4e00-8e29-a01580483218.png)
