@@ -76,7 +76,7 @@ Com a finalidade de organizar as tarefas e aprimorar o andamento do projeto, o s
 
 * BACKLOG: Brainstorm de todas as tarefas a serem realizadas, independentemente da sua prioridade. Sempre ocorrerá alterações caso alguma nova atividade seja acrescentada. 
 * A FAZER : Representando o Sprint Backlog. Tarefas que brevemente serão concluídas e melhor trabalhadas. 
-Em andamento : Referente a atividade que estamos trabalhando atualmente, podendo estar perto de ser finalizada ou que levará mais tempo para ser concluída.
+* EM ANDAMENTO : Referente a atividade que estamos trabalhando atualmente, podendo estar perto de ser finalizada ou que levará mais tempo para ser concluída.
 * CONCLUÍDO : Aqui sinalizaremos todas as tarefas finalizadas, que foram verificadas além de passar por um feedback geral do grupo de desenvolvedores. Pronto para ser aplicado fixamente no projeto. 
 
 ## VISÃO GERAL DO PROCESSO VIA TRELLO: 
