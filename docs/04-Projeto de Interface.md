@@ -17,7 +17,7 @@ Seta 6: Ao clicar em Finalizar, será pedido ao usuário que se cadastre, após 
 Seta 7: Após clicar em Seja Voluntário, o usuário será direcionado para a página de Seja Voluntário, dessa forma, tendo acesso aos perfis das ONG´s e Voluntariados.
 
 
-![LucasFsR]([https://user-images.githubusercontent.com/99758232/195962352-261520a6-4e28-4d3d-82d1-729bbbd7b084.jpeg](https://user-images.githubusercontent.com/71721477/196014933-2746fff0-e419-4e00-8e29-a01580483218.png))
+![VictorFluxoUsuario](https://user-images.githubusercontent.com/71721477/196014933-2746fff0-e419-4e00-8e29-a01580483218.png)
 
 
 ## Wireframes
