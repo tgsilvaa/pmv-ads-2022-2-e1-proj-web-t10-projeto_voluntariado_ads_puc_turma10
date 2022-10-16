@@ -52,7 +52,7 @@ A princípio, o método ágil como o SCRUM vai ser determinante para o desenvolv
 * Joe Monteiro
 
 
-### Processo
+### Cerimônias (meetings)
 
 * REVISÃO DA SPRINT:
 
