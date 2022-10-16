@@ -25,7 +25,7 @@ A princípio, o método ágil como o SCRUM vai ser determinante para o desenvolv
 
 ### Divisão de Papéis
 
-*Organização da equipe*:
+**Organização da equipe**:
 
 *Scrum Master*:
 
@@ -52,27 +52,27 @@ A princípio, o método ágil como o SCRUM vai ser determinante para o desenvolv
 
 * REVISÃO DA SPRINT:
 
-Serve para definir se o artefato está pronto. Se tudo o que foi solicitado no backlog foi atendido. O product owner ( orientador ) valida o incremento produzido de acordo com a meta da sprint
+Serve para definir se o artefato está pronto. Se tudo o que foi solicitado no backlog foi atendido. O product owner ( orientador ) valida o incremento produzido de acordo com a meta da sprint.
 
-Objetivos: inspecionar o que a equipe produziu. coletar impressões para adaptar o plano da sprint seguinte
+1. Objetivos: inspecionar o que a equipe produziu. coletar impressões para adaptar o plano da sprint seguinte.
 
-Foco: aprimoramento do produto
+2. Foco: aprimoramento do produto.
 
 * RETROSPECTIVA DA SPRINT:
  
 Serve para reavaliar o processo, o que precisa melhorar, o que está errado, o processo está bom, se tem mais opções de formas mais eficientes etc. Para garantir melhorias do software.
 
-Foco: aprimoramento do processo, interação entre membros, práticas e ferramentas utilizadas, o que funcionou e o que precisa ser melhorado,problemas e medidas para a correção.
+1. Foco: aprimoramento do processo, interação entre membros, práticas e ferramentas utilizadas, o que funcionou e o que precisa ser melhorado,problemas e medidas para a correção.
 
 
 ### Ferramentas
 
 Com a finalidade de organizar as tarefas e aprimorar o andamento do projeto, o software escolhido foi o TRELLO e o GITHUB. Mais especificamente no TRELLO,  segue o roteiro:
 
-* Backlog: Brainstorm de todas as tarefas a serem realizadas, independentemente da sua prioridade. Sempre ocorrerá alterações caso alguma nova atividade seja acrescentada. 
-* A fazer : Representando o Sprint Backlog. Tarefas que brevemente serão concluídas e melhor trabalhadas. 
+* BACKLOG: Brainstorm de todas as tarefas a serem realizadas, independentemente da sua prioridade. Sempre ocorrerá alterações caso alguma nova atividade seja acrescentada. 
+* A FAZER : Representando o Sprint Backlog. Tarefas que brevemente serão concluídas e melhor trabalhadas. 
 Em andamento : Referente a atividade que estamos trabalhando atualmente, podendo estar perto de ser finalizada ou que levará mais tempo para ser concluída.
-* Concluído : Aqui sinalizaremos todas as tarefas finalizadas, que foram verificadas além de passar por um feedback geral do grupo de desenvolvedores. Pronto para ser aplicado fixamente no projeto. 
+* CONCLUÍDO : Aqui sinalizaremos todas as tarefas finalizadas, que foram verificadas além de passar por um feedback geral do grupo de desenvolvedores. Pronto para ser aplicado fixamente no projeto. 
 
 
 ![strello](https://user-images.githubusercontent.com/114964435/196014957-ce033532-ed80-4c4c-9a16-f03d80c0f143.png)
