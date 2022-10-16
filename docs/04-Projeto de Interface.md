@@ -70,7 +70,7 @@ Utilizaremos um hiperlink que irá direcionar para um site externo (site parceir
 * Vagas recém adicionadas;
 * Todas as vagas de todas as áreas e habilidades.
 
-![LucasFsR](https://user-images.githubusercontent.com/99758232/195962357-79ddac58-5761-4d08-99c9-8894ae59e519.jpeg)
+![LucasFsR](https://marvelapp.com/prototype/iib9edh/screen/89031870)
 
 *Tela - Cadastro da ONG*
 
@@ -82,7 +82,7 @@ Será o local de cadastro da ONG que irá disponibilizar o espaço para captar v
 
 Após clicar em Finalizar, caso o usuário não tenha se cadastrado, terá que efetuar o Login. Caso ja esteja logado, aparecerá um Pop-Up sinalizando que o perfil da vaga foi criado. 
 
-![LucasFsR](https://user-images.githubusercontent.com/99758232/195962442-fa9f988e-e7c0-49f9-8dd9-739405682056.jpeg)
+![LucasFsR](https://marvelapp.com/prototype/iib9edh/screen/89031801)
 
 
 
