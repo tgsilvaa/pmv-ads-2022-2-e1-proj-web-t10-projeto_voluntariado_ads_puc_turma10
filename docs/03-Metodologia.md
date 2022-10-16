@@ -80,4 +80,4 @@ Com a finalidade de organizar as tarefas e aprimorar o andamento do projeto, o s
 * CONCLUÍDO : Aqui sinalizaremos todas as tarefas finalizadas, que foram verificadas além de passar por um feedback geral do grupo de desenvolvedores. Pronto para ser aplicado fixamente no projeto. 
 
 ## VISÃO GERAL DO PROCESSO VIA TRELLO: 
-![strello](https://user-images.githubusercontent.com/114964435/196014957-ce033532-ed80-4c4c-9a16-f03d80c0f143.png)
+![strello](https://user-images.githubusercontent.com/114964435/196017627-301faa28-56a5-467b-bde0-c875823e4349.png)
