@@ -73,3 +73,6 @@ Com a finalidade de organizar as tarefas e aprimorar o andamento do projeto, o s
 * A fazer : Representando o Sprint Backlog. Tarefas que brevemente serão concluídas e melhor trabalhadas. 
 Em andamento : Referente a atividade que estamos trabalhando atualmente, podendo estar perto de ser finalizada ou que levará mais tempo para ser concluída.
 * Concluído : Aqui sinalizaremos todas as tarefas finalizadas, que foram verificadas além de passar por um feedback geral do grupo de desenvolvedores. Pronto para ser aplicado fixamente no projeto. 
+
+
+![strello](https://user-images.githubusercontent.com/114964435/196014957-ce033532-ed80-4c4c-9a16-f03d80c0f143.png)
