@@ -38,7 +38,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| O sistema deve fornecer a funcionalidade de cadastro e login para que os potenciais voluntários e ONGs possam se registrar e ter acesso à plataforma.  | ALTA | 
 |RF-002| O sistema deve exigir no cadastro de pessoa física (voluntário) informações pessoais como: nome completo, data de nascimento, foto, endereço, e-mail, telefone, CPF e RG para facilitar a avaliação de perfil e contato com o potencial voluntário por parte das ONGs.   | ALTA |
 |RF-003| O sistema deve exigir no cadastro de pessoa jurídica (ONG) informações como: endereço, e-mail, telefone, CNPJ e breve biografia da instituição para facilitar a validação da ONG e inclusão da mesma no mapa interativo do site por parte dos administradores da plataforma.   | ALTA |
-|RF-004| O sistema deve disponibilizar um mapa dentro da plataforma que contenha todas as ONGs disponíveis nas redondezas para que o voluntário possa escolher o que lhe for mais conveniente.   | MÉDIA |
+|RF-004| O sistema deve disponibilizar um mapa dentro da plataforma dentro dos perfis das ONGs/Centros voluntariados, para facilitar o acesso a localidade    | MÉDIA |
 |RF-005| O sistema deve disponibilizar uma ferramenta de buscas por frases e palavras-chave, a ferramenta deve ter filtros de busca para que o usuário possa encontrar o que desejar dentro da plataforma com maior facilidade.| MÉDIA |
 
 
