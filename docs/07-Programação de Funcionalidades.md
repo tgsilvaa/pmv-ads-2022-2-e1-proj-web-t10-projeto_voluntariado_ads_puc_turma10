@@ -1,15 +1,25 @@
-# Programação de Funcionalidades
+# Programação de Funcionalidades (Telas)
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
+Nesta seção apresentaremos as telas desenvolvidas para o site atendendo os Requisitos Funcionais antes definidos.
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+LOGIN ( RF-01 )
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
+![NossoLogin](https://user-images.githubusercontent.com/71721477/200198636-ce3bc63e-1b6a-4fec-b00c-c4f5eb22b965.png)
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+* sistema de armazenamento a ser criado *
+
+
+MAPA DE LOCALIDADE ( RF-04 )
+
+![NossoONGvoluntariado](https://user-images.githubusercontent.com/71721477/200198663-55ddddbc-6ffd-44f1-9d4e-6fd93e76f4bd.png)
+
+
+Mapa para facilitar o acesso da localidade onde se encontra a ONG/Centro de voluntariado.
+
+SISTEMA DE BUSCA (RF-05 )
+
+![SistemaDeBusca](https://user-images.githubusercontent.com/71721477/200198699-40df7317-ae80-4054-a349-68f2d873eb37.png)
+
+
+Sistema de busca para atividades e vagas de voluntariado com utilização de palavra-chave.
+ 
