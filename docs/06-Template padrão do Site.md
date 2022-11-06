@@ -8,17 +8,25 @@ Figura 6 - Estrutura padrão do Site
 O template criado está disponível no site 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t10-projeto_voluntariado_ads_puc_turma10  e é composto pelos seguintes
 layouts:
+
 ● Tela principal home page
+
 ● ONG voluntariada
+
 ● Seja Voluntário
+
 ● Atividades
+
 A responsividade segue o padrão do Bootstrap
 
-#Tela Principal home page 
+**Tela Principal home page** 
 
 Tela inicial do site, contendo seções que levam a outras partes de acesso do site, sendo elas:
+
 ● **ONG voluntariada**
+
 ● **Seja Voluntário**
+
 ● **Atividades**
 
 ![TelaInicial](https://user-images.githubusercontent.com/71721477/200195626-93f151b9-483b-4e86-a638-3287ccb186aa.png)
