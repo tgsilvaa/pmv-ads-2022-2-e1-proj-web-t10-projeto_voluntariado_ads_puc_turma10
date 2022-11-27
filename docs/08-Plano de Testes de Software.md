@@ -28,3 +28,24 @@ Todos os membros tiveram participação ativa nos testes, tanto via encontro onl
 | Objetivo do Teste | Verificar se o login será realizado corretamente, obedecendo às regras pré-definidas. |
 | Passos | 1) Acessar o Navegador; 2) Informar o endereço do Site; 3) Visualizar a página principal; 4) Clicar na aba de login |
 | Critérios de Êxito | ● E-mail: conter um domínio após o uso do @; ● Senha: conter pelo menos 1 letra maiúscula,1 letra minúscula, 1 número, 1 caracter especial (@!#$%&) e mínimo de 8 dígitos; ● Ao não obedecer as regras de preenchimento de campo, será gerado um tooltip com a notificação: “Preencha este campo.". |
+
+
+
+| Caso de Teste | CT-03-Notificações |
+| --- | --- |
+| Requisitos Associados | RF-08 - Esta aba deve apresentar ao usuário às notificações do site, como: vagas inscritas, novas vagas, novas atividades, novos voluntários etc. |
+| Objetivo do Teste | Avaliar se as notificações estão chegando ao perfil de todos os usuários cadastrados. |
+| Passos | 1) Acessar o Navegador; 2) Informar o endereço do Site; 3) Visualizar a página principal; 4) Clicar na aba de notificações. |
+| Critérios de Êxito | Exibir todas as notificações do site. |
+
+
+
+| Caso de Teste | CT-04-Aba Home |
+| --- | --- |
+| Requisitos Associados | RF-09 Esta aba deve direcionar o usuário para a página inicial, independente de qual parte do site ele está acessando. |
+| Objetivo do Teste | Verificar se o usuário está sendo direcionado para a página inicial do site. |
+| Passos | 1) Acessar o Navegador; 2) Informar o endereço do Site; 3) Navegar pelo site; 4) Clicar na aba ”home”. |
+| Critérios de Êxito | Estar navegando em qualquer aba do site. |
+
+
+
