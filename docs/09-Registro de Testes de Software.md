@@ -27,3 +27,22 @@ botão home, além do logo e as redes sociais do projeto.
 
 >> | RF-04 |
 >> - Ao ampliar ou reduzir os valores do zoom o site deverá manter sua responsividade.
+
+
+
+
+
+**CT-03-Notificações**
+>![imagem_2022-11-27_160528465](https://user-images.githubusercontent.com/114962362/204154787-8fcdd5f2-5bd6-4350-9185-84d95e20cdf7.png)
+>> | RF-08 | 
+>> - Esta aba deve apresentar ao usuário às notificações do site, como: vagas inscritas, novas vagas, novas atividades, novos voluntários etc.
+Após a realização do teste, foi constatado êxito.
+
+**CT-04-Aba Home**
+![imagem_2022-11-27_161047772](https://user-images.githubusercontent.com/114962362/204155006-b2fb3f85-3f48-4c2f-accb-b2cf278bc0ec.png)
+>> | RF-09 |
+>> Esta aba deve direcionar o usuário para a página inicial, independente de qual parte do site ele está acessando.
+Após a realização dos testes de navegação na página de notificação, o redirecionamento  ocorreu com sucesso para a página inicial através do botão de homepage.
+
+
+
