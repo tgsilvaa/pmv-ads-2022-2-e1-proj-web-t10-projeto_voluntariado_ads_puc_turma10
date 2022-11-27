@@ -53,3 +53,33 @@ Puc Minas.
 
 
 
+**CT-03-Notificações**
+> ![imagem_2022-11-27_163827488](https://user-images.githubusercontent.com/114962362/204156048-b0205c0e-f983-4da8-b21e-20a8a5546cdd.png)
+>> | RF-08 |
+>> - Esta aba deve apresentar ao usuário às notificações do site, como: vagas inscritas, novas vagas, novas atividades, novos voluntários etc.
+Após a realização do teste, foi constatado êxito.
+
+**CT-04-Aba Home**
+> ![imagem_2022-11-27_164119755](https://user-images.githubusercontent.com/114962362/204156153-81dc8399-9e46-4ae4-a3d4-aa68ad88ba6d.png)
+>> | RF-09 |
+>> - Esta aba deve direcionar o usuário para a página inicial, independente de qual parte do site ele está acessando.
+Após a realização dos testes de navegação na página de notificação, o redirecionamento  ocorreu com sucesso para a página inicial através do botão de homepage.
+
+
+
+
+
+**CT-06-Atividades**
+> ![image](https://user-images.githubusercontent.com/114962362/204156252-3ea17d9d-af8a-42ec-8a74-4019f86c36ec.png)
+>> | RF-13 |
+>> -  Permitir que os usuários inscrevam-se nas atividades disponíveis.
+
+* CONSIDERAÇÕES
+>> ![image](https://user-images.githubusercontent.com/114962362/204156388-b7d48c1c-cccf-423a-8ed8-c8dd17f5a8c5.png)
+>> | RF-14 |
+>> - Será apresentada uma imagem (thumbnail) e, logo abaixo, uma pequena descrição correspondente à atividade em questão.
+
+
+
+
+
