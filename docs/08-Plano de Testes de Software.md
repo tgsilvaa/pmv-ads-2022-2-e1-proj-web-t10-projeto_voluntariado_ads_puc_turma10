@@ -19,3 +19,12 @@ Todos os membros tiveram participação ativa nos testes, tanto via encontro onl
 | Objetivo do Teste  | Verificar se todas as abas e ícones estão direcionando para as páginas corretas.|
 | Passos | 1) Acessar o Navegador; 2) Informar o endereço do Site; 3) Visualizar a página principal |
 | Critérios de Êxito | ● O usuário, ao clicar no card que mais se identifica, será direcionado para a aba específica que quer se inscrever. ● Todos os ícones e abas devem estar direcionando para os locais corretos.   ● No espaço para contato e/ou dúvidas, caso o campo obrigatório não seja preenchido, aparecerá um tooltip com a notificação: Preencha este campo.      ● No campo de inscrição de e-mail para recebimento de newsletter, se não for preenchido, aparecerá um tooltip com a mensagem: Preencha este campo.   ● Ao clicar no logo da Puc Minas, o usuário será direcionado para um link externo. (https://icei.pucminas.br) |
+
+
+
+| Caso de Teste | CT-02-Abrir a aba de login |
+| --- | --- |
+| Requisitos Associados | RF-07 - A aba de login deve permitir ao usuário a inserção dos dados (e-mail e senha) para acessar seu perfil no site. |
+| Objetivo do Teste | Verificar se o login será realizado corretamente, obedecendo às regras pré-definidas. |
+| Passos | 1) Acessar o Navegador; 2) Informar o endereço do Site; 3) Visualizar a página principal; 4) Clicar na aba de login |
+| Critérios de Êxito | ● E-mail: conter um domínio após o uso do @; ● Senha: conter pelo menos 1 letra maiúscula,1 letra minúscula, 1 número, 1 caracter especial (@!#$%&) e mínimo de 8 dígitos; ● Ao não obedecer as regras de preenchimento de campo, será gerado um tooltip com a notificação: “Preencha este campo.". |
