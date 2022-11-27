@@ -25,24 +25,31 @@ botão home, além do logo e as redes sociais do projeto.
 
 * CONSIDERAÇÕES
 
+>> 25% de zoom
+>> ![TESTE  - 3 CARDS](https://user-images.githubusercontent.com/114964435/204154993-662e600d-b21b-4989-949d-402d702ef918.png)
+>> 100% de zoom
+>> ![TESTE  - 3 s](https://user-images.githubusercontent.com/114964435/204155072-ca0340f2-9033-48a8-a39a-978fbef23a2b.png)
 >> | RF-04 |
 >> - Ao ampliar ou reduzir os valores do zoom o site deverá manter sua responsividade.
 
+* CONSIDERAÇÕES 
 
 
 
+>> ![TESTE  - PAG INICIAL - VISUALIZAÇÃO - OBRIGATORIO 2](https://user-images.githubusercontent.com/114964435/204155299-7546e014-5f19-4d52-b037-5b5ad5966a40.png)
+>> |RF-05 |
+>> - Espaço disponível para o usuário entrar em contato e/ou tirar dúvidas relacionadas ao projeto, os campos obrigatórios de preenchimento serão:
+nome, e-mail e mensagem. 
 
-**CT-03-Notificações**
->![imagem_2022-11-27_160528465](https://user-images.githubusercontent.com/114962362/204154787-8fcdd5f2-5bd6-4350-9185-84d95e20cdf7.png)
->> | RF-08 | 
->> - Esta aba deve apresentar ao usuário às notificações do site, como: vagas inscritas, novas vagas, novas atividades, novos voluntários etc.
-Após a realização do teste, foi constatado êxito.
+* CONSIDERAÇÕES
 
-**CT-04-Aba Home**
-![imagem_2022-11-27_161047772](https://user-images.githubusercontent.com/114962362/204155006-b2fb3f85-3f48-4c2f-accb-b2cf278bc0ec.png)
->> | RF-09 |
->> Esta aba deve direcionar o usuário para a página inicial, independente de qual parte do site ele está acessando.
-Após a realização dos testes de navegação na página de notificação, o redirecionamento  ocorreu com sucesso para a página inicial através do botão de homepage.
+>> ![TESTE  - PAG INICIAL - VISUALIZAÇÃO - OBRIGATORIO 3](https://user-images.githubusercontent.com/114964435/204155452-650e9362-9467-411b-afb7-07ef87ea804c.png)
+>> |RF-06 |
+>> - O rodapé fixo estará presente em todas as abas do site, contendo umcampo de inscrição de e-mail para recebimento de newsletter e o logo da
+Puc Minas.
+
+* CONSIDERAÇÕES
+
 
 
 
