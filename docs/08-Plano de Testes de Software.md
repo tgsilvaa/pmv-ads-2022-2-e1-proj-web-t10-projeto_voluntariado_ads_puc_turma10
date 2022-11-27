@@ -49,3 +49,11 @@ Todos os membros tiveram participação ativa nos testes, tanto via encontro onl
 
 
 
+
+
+| Caso de Teste | CT-06-Atividades |
+| --- | --- |
+| Requisitos Associados | RF-13 - Permitir que os usuários inscrevam-se nas atividades disponíveis; RF-14 - Será apresentada uma imagem (thumbnail) e, logo abaixo, uma pequena descrição correspondente à atividade em questão. |
+| Objetivos do Teste | 1) Verificar se a aba está disponível para que os voluntários possam cadastrar-se nas atividades; 2) Verificar se a barra de filtro está apresentando as classes de atividades disponíveis; 3) Verificar se as atividades estão sendo exibidas para o usuário. |
+| Passos | 1) Acessar o Navegador; 2) Informar o endereço do Site; 3) Acessar a página principal; 4) Clicar na aba “Atividades”. |
+| Critérios de Êxito | 1) A barra de busca por filtro deverá apresentar as atividades separadas por classes, como: esporte, saúde, limpeza etc; 2) Deverá conter imagens visíveis e um pequeno texto associados às atividades disponíveis; 3) Ao escolher a atividade de interesse, o usuário será direcionado para o site externo daquela atividade, onde será apresentada mais informações sobre a vaga em questão. |
